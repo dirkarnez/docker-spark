@@ -1,0 +1,3 @@
+[submodule "bitnami-docker-spark"]
+	path = bitnami-docker-spark
+	url = https://github.com/bitnami/bitnami-docker-spark.git
