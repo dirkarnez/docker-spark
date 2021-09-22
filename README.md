@@ -1,5 +1,7 @@
 docker-spark
 ============
+- [Our Optimized Spark Docker Images Are Now Available - Data Mechanics Blog](https://www.datamechanics.co/blog-post/optimized-spark-docker-images-now-available)
+  - https://hub.docker.com/r/datamechanics/spark
 - [Getting Started with Hadoop & Apache Spark (1/9) - Installing Debian - YouTube](https://www.youtube.com/watch?v=hRtInGQhBxs&list=PLJlKGwy-7Ac6ASmzZPjonzYsV4vPELf0x)
 - [carbonblack/docker-spark: Spark on docker for training](https://github.com/carbonblack/docker-spark)
 - [Examples | Apache Spark](https://spark.apache.org/examples.html)
